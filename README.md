@@ -1,24 +1,22 @@
 <h1 align="center">Merhaba, Ben Berat! 👋</h1>
 
-<h3 align="center">Full Stack & Mobil Geliştirici | Python & SaaS Mimarı</h3>
+<h3 align="center">Full Stack & Mobil Geliştirici | Python & Sistem Mimarı</h3>
 
 <p align="center">
-  Modern teknolojilerle uçtan uca çözümler üreten, ölçeklenebilir mimariler tasarlamaya odaklanmış bir yazılım geliştiricisiyim. Hem <b>React Native</b> ile mobil dünyada hem de <b>PHP</b> ve <b>JavaScript</b> ile Full-Stack projelerde aktif olarak ürün geliştiriyorum. Aynı zamanda <b>Python</b> gücünü kullanarak sistemlerime makine öğrenmesi ve görüntü işleme (Image Processing) yetenekleri entegre ediyorum.
+  Ölçeklenebilir mimariler ve uçtan uca çözümler üreten yazılım geliştiricisi. <b>React Native</b> ile mobil, <b>PHP & JS</b> ile Full-Stack projeler geliştiriyor; <b>Python</b> ile makine öğrenmesi ve görüntü işleme çözümleri tasarlıyorum.
 </p>
 
 ---
 
-### 🚀 Neler Yapıyorum?
-* 📱 **React JS** ve **React Native** kullanarak modern, performanslı web ve mobil uygulamalar geliştiriyorum.
-* 🐍 **Python** ile Makine Öğrenmesi (ML) ve Derin Öğrenme (DL) temelleri üzerine çalışıyor, **Görüntü İşleme** algoritmaları tasarlıyorum.
-* ☁️ İşletmeler için çok kiracılı (multi-tenant) yapıya sahip bir **SaaS rezervasyon API'si** mimarisi geliştiriyorum.
-* 🏢 Kapsamlı iş süreçlerini dijitalleştiren ve veri akışını optimize eden bir **ERP sistemi** tasarlıyor ve kodluyorum.
-* 🏎️ Simülasyon merkezleri için **Bolta Sim Race** gibi özel donanım entegrasyonlu rezervasyon ve yönetim sistemleri hazırladım.
-* 🎮 **Unity** ile oyun ve simülasyon ortamlarında tecrübe edinerek fizik ve mekanik tasarımları gerçekleştiriyorum.
+### 🚀 Odak Alanlarım
+* 📱 **Web & Mobil Geliştirme:** React JS ve React Native ile modern, yüksek performanslı uygulamalar.
+* ⚙️ **Backend & Sistem Mimarisi:** PHP ile ölçeklenebilir altyapılar ve kurumsal düzeyde SaaS/API mimarileri.
+* 🧠 **Yapay Zeka & Görüntü İşleme:** Python ile makine öğrenmesi (ML) algoritmaları ve görüntü işleme entegrasyonları.
+* 🎮 **Simülasyon & 3D:** Unity ve C# ile fizik tabanlı, interaktif ortam tasarımları.
 
 ---
 
-### 💻 Teknoloji Yığınım (Tech Stack)
+### 💻 Teknoloji Yığınım
 
 **Frontend & Mobil:**<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,7 +32,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-**Araçlar & Versiyon Kontrolü:**<br>
+**Araçlar:**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -51,13 +49,13 @@
 ### 📫 İletişime Geçin
 
 <p align="left">
-  <a href="https://lidercode.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-lidercode.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]" target="_blank">
+  <a href="www.linkedin.com/in/berat-cömert-6850812a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[EMAIL_ADRESIN]" target="_blank">
+  <a href="mailto:beratcomertt00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/berat.comertt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
