@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Berat%20Cömert&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Merhaba, Ben Berat! 👋</h1>
 
 <h3 align="center">Full Stack & Mobil Geliştirici | Python & Sistem Mimarı</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Python+%26+Machine+Learning;System+Architecture+Designer"/>
+</p>
 
 <p align="center">
   Ölçeklenebilir mimariler ve uçtan uca çözümler üreten yazılım geliştiricisi. <b>React Native</b> ile mobil, <b>PHP & JS</b> ile Full-Stack projeler geliştiriyor; <b>Python</b> ile makine öğrenmesi ve görüntü işleme çözümleri tasarlıyorum.
@@ -8,7 +16,8 @@
 
 ---
 
-### 🚀 Odak Alanlarım
+# 🚀 Odak Alanlarım
+
 * 📱 **Web & Mobil Geliştirme:** React JS ve React Native ile modern, yüksek performanslı uygulamalar.
 * ⚙️ **Backend & Sistem Mimarisi:** PHP ile ölçeklenebilir altyapılar ve kurumsal düzeyde SaaS/API mimarileri.
 * 🧠 **Yapay Zeka & Görüntü İşleme:** Python ile makine öğrenmesi (ML) algoritmaları ve görüntü işleme entegrasyonları.
@@ -16,46 +25,61 @@
 
 ---
 
-### 💻 Teknoloji Yığınım
-
-**Frontend & Mobil:**<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend, Python & Veri Bilimi:**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-**Araçlar:**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub İstatistiklerim
+# 💻 Teknoloji Yığınım
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratcomert&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratcomert&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+
+<img src="https://skillicons.dev/icons?i=js,react,html,css,php,python,opencv,cs,unity,git&theme=dark"/>
+
 </p>
 
 ---
 
-### 📫 İletişime Geçin
+# 📊 GitHub İstatistiklerim
 
-<p align="left">
-  <a href="www.linkedin.com/in/berat-cömert-6850812a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:beratcomertt00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/berat.comertt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=beratcomert&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beratcomert&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratcomert&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Contribution Grafiği
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=beratcomert&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📫 İletişime Geçin
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/berat-cömert-6850812a7">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:beratcomertt00@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/berat.comertt">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=beratcomert&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 </p>
