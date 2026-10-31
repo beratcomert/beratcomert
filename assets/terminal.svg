@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img"><title>Berat Cömert geliştirme odakları</title>
+<defs><clipPath id="line"><rect x="50" y="214" width="1000" height="44"><animate attributeName="width" values="0;0;1000;1000" keyTimes="0;.08;.55;1" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs>
+<rect x="1" y="1" width="1198" height="278" rx="18" fill="#0b1020" stroke="#29324a"/>
+<path d="M1 46H1199" stroke="#29324a"/>
+<circle cx="27" cy="24" r="5" fill="#f87171"/><circle cx="46" cy="24" r="5" fill="#fbbf24"/><circle cx="65" cy="24" r="5" fill="#34d399"/>
+<text x="600" y="29" text-anchor="middle" font-family="monospace" font-size="13" fill="#8695b2">berat@workspace ~ /about</text>
+<g font-family="monospace" font-size="21">
+ <text x="36" y="90" fill="#22d3ee">❯ <tspan fill="#e2e8f0">cat developer.json</tspan></text>
+ <text x="57" y="131" fill="#a78bfa">"ai"<tspan fill="#71809f">      : </tspan><tspan fill="#c9d4e9">"Python · OpenCV · YOLO · ML"</tspan><animate attributeName="opacity" values=".3;1;1;1" keyTimes="0;.15;.9;1" dur="9s" repeatCount="indefinite"/></text>
+ <text x="57" y="170" fill="#a78bfa">"web"<tspan fill="#71809f">     : </tspan><tspan fill="#c9d4e9">"Laravel · React · Next.js · REST API"</tspan><animate attributeName="opacity" values=".3;.3;1;1" keyTimes="0;.15;.3;1" dur="9s" repeatCount="indefinite"/></text>
+ <text x="57" y="209" fill="#a78bfa">"mobile"<tspan fill="#71809f">  : </tspan><tspan fill="#c9d4e9">"React Native · Flutter"</tspan><animate attributeName="opacity" values=".3;.3;1;1" keyTimes="0;.3;.45;1" dur="9s" repeatCount="indefinite"/></text>
+ <text x="57" y="248" fill="#34d399" clip-path="url(#line)">→ Fikirden çalışan ürüne.</text>
+</g>
+<rect x="1100" y="231" width="12" height="22" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/></rect></svg>

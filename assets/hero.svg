@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img">
+<title>Berat Cömert — Software Engineer</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e1d"/><stop offset="1" stop-color="#171230"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#7c3aed" stop-opacity=".2"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+ <clipPath id="frame"><rect width="1200" height="400" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+ <rect width="1200" height="400" fill="url(#bg)"/>
+ <rect width="1200" height="400" fill="url(#grid)"/>
+ <circle cx="975" cy="195" r="250" fill="url(#halo)"/>
+ <rect x="1" y="1" width="1198" height="398" rx="23" fill="none" stroke="#353056"/>
+ <path d="M0 399H1200" stroke="url(#accent)" stroke-width="4"/>
+ <rect x="55" y="48" width="28" height="3" rx="1" fill="#22d3ee"/>
+ <text x="96" y="55" fill="#a7b3cb" font-family="monospace" font-size="14" letter-spacing="3">ENGINEER / BUILDER / PROBLEM SOLVER</text>
+ <text x="51" y="161" fill="#f4f6ff" font-family="Arial, sans-serif" font-weight="700" font-size="77" letter-spacing="-3">Berat Cömert<tspan fill="#22d3ee">.</tspan></text>
+ <text x="56" y="207" fill="url(#accent)" font-family="Arial, sans-serif" font-size="27" font-weight="600">Software Engineer</text>
+ <text x="56" y="247" fill="#b6bfd5" font-family="Arial, sans-serif" font-size="20">Full Stack · Mobile · AI &amp; Computer Vision</text>
+ <rect x="56" y="292" width="300" height="42" rx="21" fill="#161d32" stroke="#303b57"/>
+ <circle cx="78" cy="313" r="4" fill="#22d3ee"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+ <text x="94" y="319" fill="#c8d4e9" font-family="monospace" font-size="14">FROM IDEA TO WORKING PRODUCT</text>
+ <g transform="translate(963 198)">
+  <circle r="143" fill="none" stroke="#393057"/>
+  <circle r="111" fill="none" stroke="#27334f" stroke-dasharray="3 8"/>
+  <circle r="79" fill="#10162a" stroke="#4d3979"/>
+  <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+   <path d="M0 -143A143 143 0 0 1 143 0" fill="none" stroke="url(#accent)" stroke-width="2"/>
+   <circle cx="0" cy="-143" r="6" fill="#a78bfa"/>
+   <circle cx="0" cy="143" r="4" fill="#22d3ee"/>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+   <circle cx="111" cy="0" r="5" fill="#22d3ee"/>
+   <circle cx="-111" cy="0" r="3" fill="#8b5cf6"/>
+  </g>
+  <text x="0" y="19" text-anchor="middle" fill="url(#accent)" font-family="monospace" font-size="56" font-weight="bold">&lt;/&gt;</text>
+ </g>
+ <text x="963" y="373" text-anchor="middle" fill="#71809f" font-family="monospace" font-size="12" letter-spacing="3">BUILD. LEARN. ITERATE.</text>
+</g></svg>

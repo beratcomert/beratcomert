@@ -1,0 +1,63 @@
+name: Update profile visuals
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/profile-assets.yml'
+  schedule:
+    - cron: '23 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate GitHub statistics
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=C9D4E9&border_radius=16
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=C9D4E9&border_radius=16
+          path: assets/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#151b30,#312e81,#6d28d9,#8b5cf6,#c4b5fd
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated visuals
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/languages.svg assets/snake.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: refresh profile visuals"
+          git push
